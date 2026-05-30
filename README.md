@@ -5,12 +5,7 @@ I'm Yuucorvi! I run this place. Yes, you may have recognized me under a differen
 On this account, you'll find my abandoned projects, projects I'm still working on, and projects I don't care to update (Seriously, just fork them and make them better. You'll be doing us all a big ol favour xD)
 
 ## Languages I program in:
-- C#
-- Java
-- Javascript
-- C
-- C++ (Occassionally)
-- SQL
+### C#, Java, Javascript, C, C++ (Sometimes), SQL
 
 ## What I'm currently working on:
 A world building tool that is a bit more rigid. Maybe Obsidian does it more flexibly, but I'm gonna make my own xD
