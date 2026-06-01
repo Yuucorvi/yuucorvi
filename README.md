@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm Yuucorvi! I run this place. On this account, you'll find my abandoned projects, projects I'm working on, and projects I don't care to update.
 ## Languages I program in:
 ### C#, Java, Javascript, C, C++ (Sometimes), SQL
